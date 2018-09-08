@@ -17,6 +17,8 @@ Run `pip install pushbullet tinydb`.
 
 Running `python3 sgs_bot.py` should create an `sgs_db.json` file and if any results are available, you should get notifications for each one on PushBullet.
 
+Now you can add it to your `crontab -e` and run it every minute or so.
+
 Follow the links and apply for em! Enjoy your stay!
 
 ## ToDos
